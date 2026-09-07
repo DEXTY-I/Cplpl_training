@@ -47,3 +47,5 @@ git clone https://github.com/USERNAME/REPOSITORY_NAME.git
 Если вы нашли опечатку, ошибку в объяснении или хотите предложить более оптимальный пример — **Pull Requests и Issues всегда приветствуются!** 🤝
 
 Учимся вместе! 💻✨
+
+![Meme](https://github.com/DEXTY-I/Cplpl_training/blob/main/Meme.jpg)
