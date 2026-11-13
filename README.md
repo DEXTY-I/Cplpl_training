@@ -37,7 +37,7 @@
 3. Склонируйте репозиторий и попробуйте запустить примеры локально:
 
 ```bash
-git clone https://github.com/DEXTY-I/Cplpl_training.git
+git clone https://github.com/DEX7Y/Cplpl_training.git
 ```
 
 ---
